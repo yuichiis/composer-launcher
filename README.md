@@ -77,5 +77,4 @@ chmod +x composer.sh
 
 ## License
 
-This project is licensed under the [BSD 3-Clause License](LICENSE).
-
+This project is licensed under the [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
